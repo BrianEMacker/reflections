@@ -13,16 +13,26 @@ The staging area contains information on which files from the working directory 
 What value do you think it offers?
 
 
+It allows partial commits.
+
 How can you use the staging area to make sure you have one commit per logical
  change?
+By staging only the files which were effected by a single change.
+
 
 
 What are some situations when branches would be helpful in keeping your history
- organized? 
+ organized?
+When doing test features that may need to be backed out.  When branching support from new development.  
+ 
 How would branches help?
 
 
+Branches allow the separation and later merging of different lines of work, or the complete backout of abandoned trials.  It also helps by allowing for parallel work to be done.
+
 How do the diagrams help you visualize the branch structure?
+By actualy drawing them.  
+
 
 
 What is the result of merging two branches together? 
