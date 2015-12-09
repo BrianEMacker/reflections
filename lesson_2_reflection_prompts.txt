@@ -36,9 +36,15 @@ By actualy drawing them.
 
 
 What is the result of merging two branches together? 
-Why do we represent it in
+Changes from the merged branch are added to the current branch.
+
+Why do we represent it in 
 the diagram the way we do?
 
 
+Because the merged branch combines with the current branch.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges 
 manually?
+
+Pros: Faster, differences are highlighted.  Cons: Hard to tell why merges were accepted.
