@@ -12,3 +12,6 @@ You could work directly on it and would not need to do a merge.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I'll assume the question is without any source control.  In that case we'd have to use a shared directory and agree not work on the same files at the same time via email, or via marking them read only and copying locally.   Obviously source control is easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You would use a separate brancehs when collaborating with others and have a review process.  If there is no review process you'd want to directly use master unless you are making a very complex change.
