@@ -9,3 +9,6 @@ Forks are copies of GitHub repositories on GitHub.  Clones are local copies of a
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You could work directly on it and would not need to do a merge.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I'll assume the question is without any source control.  In that case we'd have to use a shared directory and agree not work on the same files at the same time via email, or via marking them read only and copying locally.   Obviously source control is easier.
